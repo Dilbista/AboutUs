@@ -51,8 +51,8 @@ I love learning new technologies and creating real-world projects.
 ---
 
 # 📌 Projects / Portfolio
-- Real-world web applications using **React + Laravel **  
--jobpilot: [jobboxglobal.com](https://jobboxglobal.com)
+- Real-world web applications using **React + Laravel **
+- jobpilot: [jobboxglobal.com](https://jobboxglobal.com)
 
 ---
 
